@@ -4,7 +4,7 @@ let marksOfSubject3 = +prompt ("enter your number3");
 let marksOfSubject4 = +prompt ("enter your number4");
 let marksOfSubject5 = +prompt ("enter your number5");
 
-let sumOfAllSubjects = marksOfSubject1 + marksOfSubject2 + marksOfSubject3 + marksOfSubject4 +marksOfSubject5 
+let sumOfAllSubjects = marksOfSubject1 + marksOfSubject2 + marksOfSubject3 + marksOfSubject4 + marksOfSubject5 
 
 let percentageOfSubjects = sumOfAllSubjects / 500 * 100
 
